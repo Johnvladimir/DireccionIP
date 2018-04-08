@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Direccion IP</string>
+    <string name="net_id">Net ID</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="cantidad_de_host">Cantidad de host</string>
+    <string name="parte_de_red">Parte de red</string>
+    <string name="parte_de_host">Parte de host</string>
+</resources>
